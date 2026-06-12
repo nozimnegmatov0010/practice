@@ -117,5 +117,46 @@ background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%);
         }
     }
 }
+.m1 {
+        
+    padding-top:  100px;
+   
+    max-width: 80%;
+    margin: auto;  
+
+    .m3 {
+
+        text-align: center;
+    }
+    h4 {
+        color: #217BF4;
+
+    }
+    .m2 {
+        max-width: 60%;
+        margin: auto;
+        display: flex;
+        border-radius: 20px;
+        background-color: #D4E7FE;
+        justify-content: space-around;
+        align-items: center;
+             .p4 {
+        padding: 20px;
+        border-radius: 15px;
+        background: #217BF4;
+         color: white;
+         border: none;
+    }
+    }
+    .m4 {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 15px;
+        text-align: center;
+        margin-top: 30px;
+    }
+
+}
 
 
