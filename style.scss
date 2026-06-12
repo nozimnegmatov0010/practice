@@ -47,7 +47,7 @@ background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%);
     padding-top: 100px;
     max-width: 80%;
     margin: auto;
-    h5 {
+    h4 {
         color: #217BF4;
     }
     h1 {
@@ -58,6 +58,35 @@ background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%);
         gap: 20px;
     }
    
+}
+.p8 {
+    display: flex;
+    padding-top:  100px;
+    gap: 40px;
+    align-items: center;
+    max-width: 80%;
+    margin: auto;
+    div {
+        padding: 10px;
+        box-shadow: 5px 5px 5px gray;
+    }
+       .p4 {
+        padding: 20px;
+        border-radius: 15px;
+        background: #217BF4;
+         color: white;
+         border: none;
+    }
+    h3 {
+        color: #217BF4;
+    }
+    h5 {
+        color: #217BF4;
+    }
+   
+    h1 {
+        color: #0A093D;
+    }
 }
 
 

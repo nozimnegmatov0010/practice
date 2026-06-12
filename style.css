@@ -49,7 +49,7 @@
   max-width: 80%;
   margin: auto;
 }
-.p6 h5 {
+.p6 h4 {
   color: #217BF4;
 }
 .p6 h1 {
@@ -58,4 +58,33 @@
 .p6 .p7 {
   display: flex;
   gap: 20px;
+}
+
+.p8 {
+  display: flex;
+  padding-top: 100px;
+  gap: 40px;
+  align-items: center;
+  max-width: 80%;
+  margin: auto;
+}
+.p8 div {
+  padding: 10px;
+  box-shadow: 5px 5px 5px gray;
+}
+.p8 .p4 {
+  padding: 20px;
+  border-radius: 15px;
+  background: #217BF4;
+  color: white;
+  border: none;
+}
+.p8 h3 {
+  color: #217BF4;
+}
+.p8 h5 {
+  color: #217BF4;
+}
+.p8 h1 {
+  color: #0A093D;
 }/*# sourceMappingURL=style.css.map */
