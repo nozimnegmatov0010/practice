@@ -88,5 +88,34 @@ background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%);
         color: #0A093D;
     }
 }
+.p10 {
+      
+     
+    padding-top:  100px;
+   
+    max-width: 80%;
+    margin: auto;  
+    .p11 {
+        text-align: center;
+        h4 {
+            color: #217BF4;
+        }
+    }
+    .p9 {
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+        align-items: center;
+        .p12 {
+            display: flex;
+            margin-top: 30px;
+            align-items: center;
+            gap: 20px;
+            padding: 20px;
+                    box-shadow: 5px 5px 5px gray;
+
+        }
+    }
+}
 
 
