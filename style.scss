@@ -1,4 +1,9 @@
+
+
+
+
 .p1 {
+
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -197,5 +202,28 @@ background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%);
         }
     }
 }
+.n5 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    background-color: #2B2B39;
+    color: white;
+    .n4 {
+        display: flex;
+        gap: 10px;
+      
+     
+    }
+}
+.n7 {
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+    background-color: #20202D;
+    color: white;
+    align-items: center;
+}
+
 
 

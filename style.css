@@ -190,4 +190,26 @@
 }
 .n1 .n2 p {
   color: #217BF4;
+}
+
+.n5 {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+  background-color: #2B2B39;
+  color: white;
+}
+.n5 .n4 {
+  display: flex;
+  gap: 10px;
+}
+
+.n7 {
+  display: flex;
+  padding: 30px;
+  justify-content: space-between;
+  background-color: #20202D;
+  color: white;
+  align-items: center;
 }/*# sourceMappingURL=style.css.map */
