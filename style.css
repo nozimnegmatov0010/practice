@@ -36,4 +36,26 @@
   padding: 20px;
   border-radius: 15px;
   border: 2px solid #217BF4;
+}
+.p2 h1 {
+  font-size: 40px;
+}
+
+.p6 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 100px;
+  max-width: 80%;
+  margin: auto;
+}
+.p6 h5 {
+  color: #217BF4;
+}
+.p6 h1 {
+  font-size: 40px;
+}
+.p6 .p7 {
+  display: flex;
+  gap: 20px;
 }/*# sourceMappingURL=style.css.map */
