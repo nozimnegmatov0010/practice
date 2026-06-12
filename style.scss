@@ -1,0 +1,42 @@
+.p1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+     max-width: 80%;
+    margin: auto;
+    div {
+        display: flex;
+        gap: 30px;
+        color: gray;
+    }
+}
+.p2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 80%;
+    margin: auto;
+    .p3 {
+        padding: 15px;
+background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%);
+        color: blue;
+        display: inline;
+    }
+    .p4 {
+        padding: 20px;
+        border-radius: 15px;
+        background: #217BF4;
+         color: white;
+         border: none;
+    }
+    .p5 {
+        padding: 20px;
+        border-radius: 15px;
+        border: 2px solid #217BF4;
+    }
+
+}
+
+
+
