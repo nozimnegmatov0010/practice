@@ -158,5 +158,27 @@ background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%);
     }
 
 }
+.m5 {
+      display: flex;
+    padding-top:  100px;
+    gap: 40px;
+    align-items: center;
+    max-width: 80%;
+    margin: auto;
+    img {
+        width: 65%;
+    }
+    h3 {
+        color: #217BF4;
+    }
+    .m6 {
+        display: flex;
+        gap: 30px;
+        width: 50%;
+    }
+    h1 {
+        font-size: 40px;
+    }
+}
 
 
