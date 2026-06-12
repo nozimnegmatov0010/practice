@@ -172,4 +172,22 @@
 }
 .m5 h1 {
   font-size: 40px;
+}
+
+.n1 {
+  padding-top: 100px;
+  max-width: 80%;
+  margin: auto;
+  text-align: center;
+}
+.n1 h3 {
+  color: #217BF4;
+}
+.n1 .n2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.n1 .n2 p {
+  color: #217BF4;
 }/*# sourceMappingURL=style.css.map */

@@ -180,5 +180,22 @@ background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%);
         font-size: 40px;
     }
 }
+.n1 {
+    padding-top: 100px;
+     max-width: 80%;
+    margin: auto;
+    text-align: center;
+    h3 {
+        color: #217BF4;
+    }
+    .n2 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        p {
+            color: #217BF4;
+        }
+    }
+}
 
 
